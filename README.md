@@ -5,7 +5,7 @@ Registreer tellerstanden van water, electriciteit, gas en zon. Hou je verbruik i
 Verbruik-PHP is een kleine PHP site die makkelijk toelaat verbruik van electriciteit, gas en water alsook opbrengst van zonnepanelen te monitoren. De tool kan door meerdere gebruikers gebruikt worden waardoor vergelijken heel makkelijk wordt. Je kan immers moeilijk inschatten of jouw verbruik 'normaal' is, of het normaal is dat je dit jaar 10% hoger of lager zit dan vorig jaar, als je niks hebt om te vergelijken.
 
 # Features
-![Features](https://i.imgur.com/YDZuqui.png =320x568)
+![Features](https://i.imgur.com/YDZuqui.png)
 
 ## Nieuwe invoer
 Invoeren van een nieuwe tellerstand. 
@@ -13,21 +13,21 @@ Vul elk veld in, telkens wordt de laatste waarde getoond. Voor gas, electricitei
 Er werd officieus overeengekomen om elke zondag een nieuwe tellerstand in te voeren. Dagelijkse tellerstanden zorgen voor teveel pieken en dalen waardoor vergelijken moeilijk wordt. Indien iedereen elke zondag een tellerstand invoert levert dit de beste en mooiste vergelijkingsmogelijkheden.
 
 ## Grafiek per dag
-![Features](https://i.imgur.com/HzEPHsX.png =320x568)
+![Features](https://i.imgur.com/HzEPHsX.png)
 Deze grafiek toont het verbruik van de laatste 30 dagen, met elke waarde per dag. Er wordt sowieso tem vandaag getoond, onafhankelijk of iedereen al een tellerstand invulde of niet. Vandaar de 0 waardes voor deze personen. 
 Standaard wordt enkel jouw eigen verbruik getoond. Klik op een of meerdere namen om te vergelijken. Bij de naam wordt telkens de datum van de laatste tellerstand getoond.
 Voor wat onze (Guy) tellerstanden betreft: deze worden automatisch in realtime ingevuld. Bij een manuele meteringave worden deze automatische ingevulde waardes vervangen door het gemiddelde, net als bij jullie dus. 
 
 ## Grafiek per maand
-![Features](https://i.imgur.com/r55WUQ8.png =320x568)
+![Features](https://i.imgur.com/r55WUQ8.png)
 Toont het gemiddeld verbruik 'per lopende maand'. Hiermee bedoel ik dat er steeds tot de dag van de laatste tellerstand getoond wordt, telkens in periodes van 1 maand. Bijvoorbeeld op de 15de van de maand zie je het verbruik van de 15de van de vorige maand tem de 15 van deze maand etc. Standaard wordt enkel jouw eigen verbruik getoond. Klik op een of meerdere namen om te vergelijken. Bij de naam wordt telkens de datum van de laatste tellerstand getoond. Hier is het zo dat de periode mee schuift met de oudste tellerstand van elke geselecteerde gebruiker. Met de gele knop "12 maanden" kan je kiezen hoeveel maanden je wil zien.
 
 ## Grafiek per jaar
-![Features](https://i.imgur.com/vStJ9Uz.png =320x568)
+![Features](https://i.imgur.com/vStJ9Uz.png)
 Toont het gemiddeld verbruik 'per lopend jaar'. Hiermee bedoel ik dat er steeds tot de dag van de laatste tellerstand getoond wordt, telkens in periodes van 1 jaar. Bijvoorbeeld op de 15 maart zie je het verbruik van de 15 maart vorige jaar tem de 15 maart van dit jaar etc. Hierdoor heb je op elk moment een zicht op een volledig jaar die alle seizoenen bevat. Standaard wordt enkel jouw eigen verbruik getoond. Klik op een of meerdere namen om te vergelijken. Bij de naam wordt telkens de datum van de laatste tellerstand getoond. Hier is het zo dat de periode mee schuift met de oudste tellerstand van elke geselecteerde gebruiker. Met de gele knop "10 jaar" kan je kiezen hoeveel jaar er getoond wordt. 
 
 ## Overzicht jaren
-![Features](https://i.imgur.com/XoelwK1.png =320x568)
+![Features](https://i.imgur.com/XoelwK1.png)
 Toont een overzicht van de laatste jaren per gebruiker. In deze grafiek kan je dus niet vergelijken met andere gebruikers, maar vergelijk je met het verbruik van de voorbije jaren. Deze grafiek werkt niet met lopende maanden maar met de effectieve kalendermaanden. Hierdoor kan het dus zijn dat de huidige maand wijzigt naar mate de maand vordert. De volle lijn toont het effectieve verbruik voor elke maand, de stippellijn een lopend gemiddelde. In januari zullen beide punten dus steeds gelijk zijn. In februari toont de stippellijn het gemiddelde van januari en februari etc. Met de knop "3 jaar" kan je selecteren hoeveel jaren je wil tonen. Vooral voor deze grafiek geld dat het pas mooier wordt na enkele jaren gebruik en dat er regelmatig tellerstanden ingevuld worden.
 
 ## Temperaturen
