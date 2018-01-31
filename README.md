@@ -5,6 +5,8 @@ Registreer tellerstanden van water, electriciteit, gas en zon. Hou je verbruik i
 Verbruik-PHP is een kleine PHP site die makkelijk toelaat verbruik van electriciteit, gas en water alsook opbrengst van zonnepanelen te monitoren. De tool kan door meerdere gebruikers gebruikt worden waardoor vergelijken heel makkelijk wordt. Je kan immers moeilijk inschatten of jouw verbruik 'normaal' is, of het normaal is dat je dit jaar 10% hoger of lager zit dan vorig jaar, als je niks hebt om te vergelijken.
 
 # Features
+![Features](https://i.imgur.com/YDZuqui.png)
+
 ## Nieuwe invoer
 Invoeren van een nieuwe tellerstand. 
 Vul elk veld in, telkens wordt de laatste waarde getoond. Voor gas, electriciteit en zon is 1 decimale waarde voldoende. Voor water noteer je best 3 cijfers na de komma omdat je daar slechts ca 1m3 verbruikt per week.
